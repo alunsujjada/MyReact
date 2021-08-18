@@ -1,0 +1,21 @@
+.btn{
+    width: 100px;
+    height:30px;
+    margin:0 5px;
+    color: #fff;
+    border:none;
+    font-family:verdana;
+}
+
+
+.btn-success{
+    background: rgba(8, 122, 13, 0.938);
+}
+
+.btn-warning{
+    background: rgba(240, 126, 19, 0.938);
+}
+
+.btn-primary{
+    background: rgba(13, 33, 212, 0.938);
+}
